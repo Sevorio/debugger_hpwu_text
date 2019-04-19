@@ -1,0 +1,96 @@
+Collection-Item:{
+ID: 0001
+Name: rubeushagrid
+Family:_careofmagicalcreatures
+Page: _hagrids_hut (1)
+Graphic: image
+Shards: [5,10,20,50] -> for standard, bronze,silver,gold
+Encounter_info: text and spell
+}
+Storepack:
+Name: nameofpack
+Type: -> energy,food,box, increase etc.
+Saletime: XD:XH if limited time else 0D:0H
+Price: Money
+Contents: List
+
+Profile & Passport
+Name
+Level
+XP
+MinistryID (more info)
+
+DailyQuests:
+type: inns,traces,ingredients,brew,walk,all
+reward:
+
+dailylogin
+
+Encounter:
+threat_level
+level
+Name:
+introtext
+text
+spell
+type: confoundable / Battle
+
+Spell:
+glyph
+Damage
+time
+qualitylevels
+
+rewards:
+Items
+amount
+
+outposts/landmarks
+
+Dark Detectors
+
+Vault-Item:
+vault-category
+_energyitem
+_currencyitem
+_detectoritem
+_runestoneitem
+_potionitem
+_containeritem
+_potioningredient
+
+Potion:
+Name:
+effect:
+Recipe: ingredients & time
+Master-Note
+
+Map:
+Greenhouses
+Inns
+Landmarks
+Traces
+Ingredients
+
+Profession:
+name
+advances
+basestats
+lessons
+
+lessons:
+skilltree and values
+
+Portkeys and Walkboxes
+
+Store
+pages
+
+CHALLENGES lots of stuff
+
+FLOO no idea
+
+Storyboards:
+Info!
+
+RPGSTATS?
