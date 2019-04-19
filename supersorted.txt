@@ -4671,8 +4671,7 @@ _stat_combat_check_current_hp_namereward_bonus_brainelixir
 events_coming_soon
 
 ===========================================================
-
-
+MAPABILITY_
 _auror_damageoverstates_name
 _auror_damageoverstates_desc
 _auror_affinity_name
