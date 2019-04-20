@@ -1,0 +1,10 @@
+MYSTERIES: CHAPTERS:
+
+[183] = "Chapter 1"
+[1643] = "The Foundables Spell"
+[1644] = "Grim Fawley - Motives"
+[186] = "Chapter 2"
+[1645] = "Grim Fawley - Background"
+[1646] = "Ministry Record - Grim Fawley"
+[189] = "Chapter 3"
+[1647] = "Penelope Fawley - Background"

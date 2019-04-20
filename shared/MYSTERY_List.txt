@@ -1,0 +1,348 @@
+[1422]string LocKey = "collection_items_mysteries01_dailyprophet_name"
+string LocValue = "Daily Prophet"
+[1423]string LocKey = "collection_items_mysteries01_dailyprophet_return_location"
+string LocValue = "Your Notebook"
+[1424]string LocKey = "collection_items_mysteries01_dailyprophet_description"
+string LocValue = "A clipping from a very old edition of the Daily Prophet:
+
+“The victim, Hamish Steed, was under Ministry protection at the time of Flannery's murderous rampage. After several hours of interrogation, Flannery admitted that he used an ancient spell to track down his greatest desire - which happened to be the location of the late Steed”."
+[1425]string LocKey = "collection_items_mysteries01_filefolder_name"
+string LocValue = "Ministry Memos"
+[1426]string LocKey = "collection_items_mysteries01_filefolder_return_location"
+string LocValue = "Your Notebook"
+[1427]string LocKey = "collection_items_mysteries01_filefolder_description"
+string LocValue = "A file of memos from the Ministry of Magic."
+[1428]string LocKey = "collection_items_mysteries01_incidentreport_name"
+string LocValue = "Incident Report"
+[1429]string LocKey = "collection_items_mysteries01_incidentreport_return_location"
+string LocValue = "Your Notebook"
+[1430]string LocKey = "collection_items_mysteries01_incidentreport_description"
+string LocValue = "An incident report filed with the Ministry of Magic. A wizarding library in Prague reports that several ancient spell books have gone missing. The librarian believes the thief was a recent visitor."
+[1431]string LocKey = "collection_items_mysteries01_journal_name"
+string LocValue = "Grim Fawley's Journal"
+[1432]string LocKey = "collection_items_mysteries01_journal_return_location"
+string LocValue = "Your Notebook"
+[1433]string LocKey = "collection_items_mysteries01_journal_description"
+string LocValue = "A collection of entries from Grim Fawley's journal."
+[1434]string LocKey = "collection_items_mysteries01_magicaltome_name"
+string LocValue = "Magical Tome"
+[1435]string LocKey = "collection_items_mysteries01_magicaltome_return_location"
+string LocValue = "Your Notebook"
+[1436]string LocKey = "collection_items_mysteries01_magicaltome_description"
+string LocValue = "An ancient, dusty tome, hand stitched together and covered in stiff, worn leather. Its contents are written, arcane, faded runes. There are pages ripped from the centre of the book."
+[1437]string LocKey = "collection_items_mysteries01_notepage_name"
+string LocValue = "Amorette Deneuve"
+[1438]string LocKey = "collection_items_mysteries01_notepage_return_location"
+string LocValue = "Your Notebook"
+[1439]string LocKey = "collection_items_mysteries01_notepage_description"
+string LocValue = "A handwritten letter from Amorette Deneuve to Grim Fawley:
+
+“What makes us yearn for the comfort of others? Why does a broken heart hurt so? Love imbues itself into our very bones, our very souls. I believe that love is the greatest and most dangerous magic in the world.”
+
+Along the margin, in cramped writing, reads: “-imbued into our very bones. Use to find her?”"
+[1440]string LocKey = "collection_items_mysteries02_dailyprophet_name"
+string LocValue = "Daily Prophet Clipping"
+[1441]string LocKey = "collection_items_mysteries02_dailyprophet_return_location"
+string LocValue = "Your Notebook"
+[1442]string LocKey = "collection_items_mysteries02_dailyprophet_description"
+string LocValue = "An issue of the Daily Prophet, regarding the Ministry's decision to end its investigation into the London Five:
+
+“After failing to come up with any evidence regarding the London Five, the Ministry has shuttered the investigation, leaving families of the missing distraught. Surely an investigation helmed by the famous Harry Potter should have been able to find something?”"
+[1443]string LocKey = "collection_items_mysteries02_folder_name"
+string LocValue = "Ministry Memos"
+[1444]string LocKey = "collection_items_mysteries02_folder_return_location"
+string LocValue = "Your Notebook"
+[1445]string LocKey = "collection_items_mysteries02_folder_description"
+string LocValue = "A collection of memos filed with the Ministry of Magic."
+[1446]string LocKey = "collection_items_mysteries02_journal_name"
+string LocValue = "Grim's Grief"
+[1447]string LocKey = "collection_items_mysteries02_journal_return_location"
+string LocValue = "Your Notebook"
+[1448]string LocKey = "collection_items_mysteries02_journal_description"
+string LocValue = "A page of Grim's neatly kept journal:
+
+“Melody has your nose. I never noticed it before now, but tonight I came home and realized. And I know you said Talbot takes after me, but I swear he has your stubborness.”
+
+There's a water stain on the page, some letters smudged.
+
+“I'm going to bring you home, Nel. Even if it kills me. Our kids will not grow up like I did.”"
+[1449]string LocKey = "collection_items_mysteries02_scarf_name"
+string LocValue = "Penelope's Scarf"
+[1450]string LocKey = "collection_items_mysteries02_scarf_return_location"
+string LocValue = "Your Notebook"
+[1451]string LocKey = "collection_items_mysteries02_scarf_description"
+string LocValue = "An old scarf in Slytherin's House colors. The edges are frayed and tattered, and there are several holes in the scarf."
+[1452]string LocKey = "collection_items_mysteries02_wand_name"
+string LocValue = "Penelope's Wand"
+[1453]string LocKey = "collection_items_mysteries02_wand_return_location"
+string LocValue = "Your Notebook"
+[1454]string LocKey = "collection_items_mysteries02_wand_description"
+string LocValue = "The wand is willow, twelve and a half inches long with a dragon heartstring core. There's a large, spindling crack down the middle."
+[1455]string LocKey = "collection_items_mysteries03_dailyprophet_name"
+string LocValue = "Wedding Announcement"
+[1456]string LocKey = "collection_items_mysteries03_dailyprophet_return_location"
+string LocValue = "Your Notebook"
+[1457]string LocKey = "collection_items_mysteries03_dailyprophet_description"
+string LocValue = "Daily Prophet, dated June of 2006:
+
+“Miss Penelope Padgett and Mr. Grim Fawley were wed this past Sunday in West Bromwich. Both Padgett and Fawley work within the Deparment of Magical Law Enforcement at the Ministry of Magic.”
+
+Attached is a picture of Penelope and Grim - Penelope enthusiastically kissing Grim's cheek while he blushes and looks away from the camera."
+[1458]string LocKey = "collection_items_mysteries03_locket_name"
+string LocValue = "Silver Locket"
+[1459]string LocKey = "collection_items_mysteries03_locket_return_location"
+string LocValue = "Your Notebook"
+[1460]string LocKey = "collection_items_mysteries03_locket_description"
+string LocValue = "A small silver locket, slightly tarnished from wear; on the inside of the locket is an inscription:
+
+“My strength. My heart. My life. G & P.”"
+[1461]string LocKey = "collection_items_mysteries03_note_name"
+string LocValue = "Note from Grim"
+[1462]string LocKey = "collection_items_mysteries03_note_return_location"
+string LocValue = "Your Notebook"
+[1463]string LocKey = "collection_items_mysteries03_note_description"
+string LocValue = "A hand written note in Grim's writing, addressed to Penelope:
+
+“I've always been the one on the side, looking in on everyone else's adventures. But you're right… I have a lot to offer.
+
+So I'm going to do it… I'm going to apply to be an Unspeakable. You've got me convinced. I am bloody qualified!
+
+It's time to get in the game, right? It's time I had an adventure of my own.”"
+[1464]string LocKey = "collection_items_mysteries03_suitcase_name"
+string LocValue = "Grim's Suitcase"
+[1465]string LocKey = "collection_items_mysteries03_suitcase_return_location"
+string LocValue = "Your Notebook"
+[1466]string LocKey = "collection_items_mysteries03_suitcase_description"
+string LocValue = "An old, tattered suitcase, the leather on the edges scuffed down to reveal the stretched canvas underneath. The worn nameplate on the top of the case reads “G. M. Fawley”. The case is empty inside."
+[1467]string LocKey = "collection_items_mysteries03_transcript_name"
+string LocValue = "Grim's School Record"
+[1468]string LocKey = "collection_items_mysteries03_transcript_return_location"
+string LocValue = "Your Notebook"
+[1469]string LocKey = "collection_items_mysteries03_transcript_description"
+string LocValue = "A listing of Grim Fawley's achievements as a student at Hogwarts, probably once attached to his CV. It details Fawley's excellent work as a student, receiving five Outstandings and one Exceeds Expectations on his N.E.W.T.s."
+[1470]string LocKey = "collection_items_mysteries03_urn_name"
+string LocValue = "Fawley Urn"
+[1471]string LocKey = "collection_items_mysteries03_urn_return_location"
+string LocValue = "Your Notebook"
+[1472]string LocKey = "collection_items_mysteries03_urn_description"
+string LocValue = "A porcelain urn, covered in a thin layer of dust. The lid is slightly chipped, with an inscription: “Lucretia and Marshall Fawley. Loving mother and father.”"
+[1473]string LocKey = "collection_items_mysteries04_ancienttome_name"
+string LocValue = "Transcribed Tome"
+[1474]string LocKey = "collection_items_mysteries04_ancienttome_return_location"
+string LocValue = "Your Notebook"
+[1475]string LocKey = "collection_items_mysteries04_ancienttome_description"
+string LocValue = "An ancient tome, meticulously cleaned and stored. There are several loose sheafs of paper tucked into the book, scribed in Grim Fawley's small, precise handwriting."
+[1476]string LocKey = "collection_items_mysteries04_filefolder_name"
+string LocValue = "Grim's Work"
+[1477]string LocKey = "collection_items_mysteries04_filefolder_return_location"
+string LocValue = "Your Notebook"
+[1478]string LocKey = "collection_items_mysteries04_filefolder_description"
+string LocValue = "A collection of memos regarding Grim Fawley's work at the Ministry."
+[1479]string LocKey = "collection_items_mysteries04_quibbler_name"
+string LocValue = "Unspeakables Expanding!"
+[1480]string LocKey = "collection_items_mysteries04_quibbler_return_location"
+string LocValue = "Your Notebook"
+[1481]string LocKey = "collection_items_mysteries04_quibbler_description"
+string LocValue = "An issue of the Quibbler, its headline reading “The Unspeakables Expand in Secret! What Are They Hiding?” The issue is dated around the time Grim Fawley was promoted."
+[1482]string LocKey = "collection_items_mysteries04_skeletonkey_name"
+string LocValue = "Skeleton Key"
+[1483]string LocKey = "collection_items_mysteries04_skeletonkey_return_location"
+string LocValue = "Your Notebook"
+[1484]string LocKey = "collection_items_mysteries04_skeletonkey_description"
+string LocValue = "A mysterious gold key, worn from use."
+[1485]string LocKey = "collection_items_mysteries04_unspeakablesbadge_name"
+string LocValue = "Unspeakables Badge"
+[1486]string LocKey = "collection_items_mysteries04_unspeakablesbadge_return_location"
+string LocValue = "Your Notebook"
+[1487]string LocKey = "collection_items_mysteries04_unspeakablesbadge_description"
+string LocValue = "A Ministry Identification Card, featuring a photograph of Grim Fawley. The credentials list Fawley as an Unspeakable, with clearance for the Department of Mysteries."
+[1488]string LocKey = "collection_items_mysteries05_broom_name"
+string LocValue = "Penelope's Broom"
+[1489]string LocKey = "collection_items_mysteries05_broom_return_location"
+string LocValue = "Your Notebook"
+[1490]string LocKey = "collection_items_mysteries05_broom_description"
+string LocValue = "A Comet 290, made by Comet Trading Company. The handle has been worn with age, and “If lost, return to Penelope Padgett” has been magically carved into the wood, near the base of the broom."
+[1491]string LocKey = "collection_items_mysteries05_dailyprophet_name"
+string LocValue = "The London Five"
+[1492]string LocKey = "collection_items_mysteries05_dailyprophet_return_location"
+string LocValue = "Your Notebook"
+[1493]string LocKey = "collection_items_mysteries05_dailyprophet_description"
+string LocValue = "An issue of the Daily Prophet. The headline reads:
+
+“FIVE GO MISSING IN LONDON - INVESTIGATION UNDERWAY”
+
+The Prophet lists the missing: Riya Patel, Timothy Hale, Kit Gerrard, Genevieve Bladt, and Penelope Fawley."
+[1494]string LocKey = "collection_items_mysteries05_encodedmessage_name"
+string LocValue = "Coded Message"
+[1495]string LocKey = "collection_items_mysteries05_encodedmessage_return_location"
+string LocValue = "Your Notebook"
+[1496]string LocKey = "collection_items_mysteries05_encodedmessage_description"
+string LocValue = "An encrypted note in Penelope's precise script. It reads:
+
+“Ur'k t ssl!”"
+[1497]string LocKey = "collection_items_mysteries05_memo_blue_name"
+string LocValue = "Gethsemane's Warning"
+[1498]string LocKey = "collection_items_mysteries05_memo_blue_return_location"
+string LocValue = "Your Notebook"
+[1499]string LocKey = "collection_items_mysteries05_memo_blue_description"
+string LocValue = "A Ministry memo addressed to Harry Potter, from Gethsemane Prickle:
+
+“Be careful with that Padgett woman, Potter. Her parents were followers of You-Know-Who, and you know the apple rarely falls far from the tree. She's trouble, mark my words.”"
+[1500]string LocKey = "collection_items_mysteries05_memo_promotion_name"
+string LocValue = "Penelope's Promotion"
+[1501]string LocKey = "collection_items_mysteries05_memo_promotion_return_location"
+string LocValue = "Your Notebook"
+[1502]string LocKey = "collection_items_mysteries05_memo_promotion_description"
+string LocValue = "An Internal Ministry Memo written by Harry Potter, announcing Penelope Padgett's promotion to the rank of Auror. The memo details her accomplishments within the Department of Magical Law Enforcement as reason behind the promotion."
+[1503]string LocKey = "collection_items_mysteries05_prefectbadge_name"
+string LocValue = "Penelope's Prefect Badge"
+[1504]string LocKey = "collection_items_mysteries05_prefectbadge_return_location"
+string LocValue = "Your Notebook"
+[1505]string LocKey = "collection_items_mysteries05_prefectbadge_description"
+string LocValue = "A Prefect Badge in Slytherin's house colours. The metal badge is tarnished and the colours have begun to fade, as if it hasn't been cared for in a while."
+
+
+
+[1518]string LocKey = "collection_items_mysteries02_foldernested01_mystery_name"
+string LocValue = "Re: Investigation's Closure"
+[1519]string LocKey = "collection_items_mysteries02_foldernested01_mystery_desc"
+string LocValue = "A memo from Grim Fawley, addressed to Harry Potter:
+
+“I've never asked anything of you before. But this is Penelope. If you aren't willing to bend the rules for yourself, then do it for her.
+
+Harry, I'm begging you. She's out there. I know it. Please.”"
+[1520]string LocKey = "collection_items_mysteries02_foldernested02_mystery_name"
+string LocValue = "Re: Council Decision"
+[1521]string LocKey = "collection_items_mysteries02_foldernested02_mystery_desc"
+string LocValue = "A memo addressed to Gareth Greengrass from Grim Fawley:
+
+“You promised me you'd do everything in your power to find Penelope. 'No expense spared', you said.
+
+But the council's closed the investigation. You're on the bloody council!
+
+Please, convince them to re-open the investigation. If not for me, then for Nel.”"
+[1522]string LocKey = "collection_items_mysteries02_foldernested03_mystery_name"
+string LocValue = "Re: Penelope's File"
+[1523]string LocKey = "collection_items_mysteries02_foldernested03_mystery_desc"
+string LocValue = "A Ministry memo addressed to Harry Potter, from Grim Fawley:
+
+“Potter,
+
+My request to obtain my wife's file has been denied. It is my right to have access to that information.
+
+Is this how your Department treats its fellow Aurors? Ignore they even existed?
+
+Barring a grieving husband from the closure he deserves is low, even for you, Potter.”"
+[1524]string LocKey = "collection_items_mysteries02_foldernested04_mystery_name"
+string LocValue = "Re: Leave of Absense"
+[1525]string LocKey = "collection_items_mysteries02_foldernested04_mystery_desc"
+string LocValue = "A note from Gareth Greengrass, addressed to Grim Fawley:
+
+“Grim,
+
+I've put in a recommendation that you take time off from work. No one is expecting you to go about your day as if nothing has happened.
+
+You need time to grieve. We all do. You know Penelope would want you to take care of yourself, for the kids.
+
+Fondly
+-Gareth.”"
+[1526]string LocKey = "collection_items_mysteries02_foldernested05_mystery_name"
+string LocValue = "Re: Investigation's Cost"
+[1527]string LocKey = "collection_items_mysteries02_foldernested05_mystery_desc"
+string LocValue = "Filed with the Accounting Department, a memo written by Grim:
+
+“…that budgetary concerns were the reason behind closing the 'London Five' investigation. As you can see in the attached, itemized list, the cited reason does not correlate to the actual spending costs. Is this just intentional or accidental stupidity?”
+
+No reply to the memo was sent."
+[1528]string LocKey = "collection_items_mysteries01_filefoldernested01_mystery_name"
+string LocValue = "Re: The Love Room"
+[1529]string LocKey = "collection_items_mysteries01_filefoldernested01_mystery_desc"
+string LocValue = "A memo from Grim Fawley addressed to Gareth Greengrass, requesting access to the Love Room within the Department of Mysteries. The request was granted."
+[1530]string LocKey = "collection_items_mysteries01_filefoldernested02_mystery_name"
+string LocValue = "Ingredients Invoice"
+[1531]string LocKey = "collection_items_mysteries01_filefoldernested02_mystery_desc"
+string LocValue = "An order form from Grim Fawley to the Ministry of Magic Remittance Office, requesting a number of Potion ingredients, including Baneberry, Jobberknoll Feathers, and Unicorn Hair."
+[1532]string LocKey = "collection_items_mysteries01_filefoldernested03_mystery_name"
+string LocValue = "Re: Portkey"
+[1533]string LocKey = "collection_items_mysteries01_filefoldernested03_mystery_desc"
+string LocValue = "A memo from Grim Fawley, requesting the use of a Portkey.
+Travel destination: a library in Prague. 
+The request was approved."
+[1534]string LocKey = "collection_items_mysteries01_filefoldernested04_mystery_name"
+string LocValue = "Inter-Library Loan"
+[1535]string LocKey = "collection_items_mysteries01_filefoldernested04_mystery_desc"
+string LocValue = "Request filed by Grim Fawley for an inter-library loan for an Ancient Tome. 
+Request denied.
+Appeal Filed.
+Appeal also denied."
+[1536]string LocKey = "collection_items_mysteries01_journalnested01_mystery_name"
+string LocValue = "Finding the Spell"
+[1537]string LocKey = "collection_items_mysteries01_journalnested01_mystery_desc"
+string LocValue = "A journal entry written in the small, cramped handwriting of Grim Fawley:
+
+“There's a rumour of a very old, outlawed spell meant to find what one desires most… and I may have found it.
+
+I don't believe it will bring Penelope back. Not on its own. But maybe I can combine it…”"
+[1538]string LocKey = "collection_items_mysteries01_journalnested02_mystery_name"
+string LocValue = "The Love Room"
+[1539]string LocKey = "collection_items_mysteries01_journalnested02_mystery_desc"
+string LocValue = "Grim's handwriting is cramped and frantic in a page of his journal:
+
+“I don't know if it's the Love Room that's causing it, but I feel closer to you here, Nel. When I'm in here, I KNOW you're alive.
+
+It's as if you're just on the other side of the door, and all I have to do is open it.
+
+Is this spell the key?”"
+[1540]string LocKey = "collection_items_mysteries01_journalnested03_mystery_name"
+string LocValue = "Regina Rowle Note"
+[1541]string LocKey = "collection_items_mysteries01_journalnested03_mystery_desc"
+string LocValue = "A note written in swirling handwriting:
+
+“Now, what would Greengrass think if I told him that his protege was skulking about the Love Room after hours? I didn't think you'd be so quick to move on… but…
+
+Your secret's safe with me. Remember to be careful, Grim. The next time it may not be me who finds you in there sleeping.
+-Regina.”"
+[1542]string LocKey = "collection_items_mysteries01_journalnested04_mystery_name"
+string LocValue = "Penelope's Disappearance"
+[1543]string LocKey = "collection_items_mysteries01_journalnested04_mystery_desc"
+string LocValue = "An entry in Grim's journal:
+
+“Nel. It's killing me. You always said I was stronger than I knew, but I don't know how to be strong without you.
+
+Harry told me to trust in the Aurors, but they are failing. Miserably. And they are staying so safe… Everything is by the book.
+
+If there was something I could do… some kind of magic to bring you back, I'd use it in a heartbeat.”"
+[1544]string LocKey = "collection_items_mysteries01_journalnested05_mystery_name"
+string LocValue = "Coded Message"
+[1545]string LocKey = "collection_items_mysteries01_journalnested05_mystery_desc"
+string LocValue = "An entry of letters nonsensically strung together:
+
+“BPM GZM EIB KPQ VOM DMZ GBP QVO QVM MLB WJM UWZ MKI ZMN CT”
+
+Written at the bottom of the page:
+
+“Remember: Dinner at 8.”"
+[1546]string LocKey = "collection_items_mysteries04_filefoldernested01_mystery_name"
+string LocValue = "List of New Hires"
+[1547]string LocKey = "collection_items_mysteries04_filefoldernested01_mystery_desc"
+string LocValue = "An internal Ministry Memo, listing new appointments to the Ministry of Magic. Grim Fawley is assigned to the Department of Magical Law Enforcement."
+[1548]string LocKey = "collection_items_mysteries04_filefoldernested02_mystery_name"
+string LocValue = "Grim's Promotion"
+[1549]string LocKey = "collection_items_mysteries04_filefoldernested02_mystery_desc"
+string LocValue = "A memo written in Gareth Greengrass's elaborate script, announcing the promotion of one Grim Fawley to the role of Unspeakable."
+[1550]string LocKey = "collection_items_mysteries04_filefoldernested03_mystery_name"
+string LocValue = "Internal Evaluation"
+[1551]string LocKey = "collection_items_mysteries04_filefoldernested03_mystery_desc"
+string LocValue = "An evaluation written by Gareth Greengrass and co-signed by Mordecai Berrycloth:
+
+“Fawley has shown incredible growth within the Department of Magical Law Enforcement, and has been vital to the apprehension of several Dark wizards. I believe his talents would be an incredible asset to the Department of Mysteries, and I have recommended Fawley to be promoted to Unspeakable. - Gareth Greengrass.”"
+[1552]string LocKey = "collection_items_mysteries04_filefoldernested04_mystery_name"
+string LocValue = "Year End Evaluation"
+[1553]string LocKey = "collection_items_mysteries04_filefoldernested04_mystery_desc"
+string LocValue = "An official Ministry evaluation, dated a year after Grim Fawley joined the Department of Mysteries:
+
+“Despite personal misgivings regarding Mr. Fawley's commitment to the role, he has surpassed all expectations during his trial period. - Albert Sallow.”"
+[1554]string LocKey = "collection_items_mysteries04_filefoldernested05_mystery_name"
+string LocValue = "Penelope and Grim"
+[1555]string LocKey = "collection_items_mysteries04_filefoldernested05_mystery_desc"
+string LocValue = "An Incident Report filed with the Department of Magical Law Enforcement, detailing the apprehension of a Dark wizard. The lead Auror on the case was Penelope Padgett, and Grim Fawley was the Head research assistant."

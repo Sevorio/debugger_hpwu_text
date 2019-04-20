@@ -1,0 +1,89 @@
+INDEX:
+[159] : Care of Magical Creatures
+[1556] : Hagrid's Hut"
+[1560] : Pumpkin Patch"
+[1561] : Forbidden Forest"
+
+[153] : Dark Arts
+[1559] : Borgin & Burkes"
+[1562] : Knockturn Alley"
+[1563] : Fallen Ministry Atrium"
+
+[150] : Hogwarts School
+[1566] : DADA Classroom"
+[1648] : Moving Staircases"
+[1564] : Great Hall"
+
+[162] : Legends of Hogwarts
+[1565] : Room of Requirement - Dumbledore's Army"
+[1567] : Potions Classroom"
+[1568] : Chess Chamber"
+
+[171] : Ministry of Magic
+[1575] : Ministry Atrium"
+[1576] : Ministry Atrium II"
+[1577] : Courtroom Ten"
+
+[168] : Magizoology
+[1572] : Newt's Case"
+[1573] : Central Park"
+[1574] : New York City Street"
+
+[165] : Magical Games and Sports
+[1569] : World Cup Grounds"
+[1570] : Hogwarts Quidditch Pitch"
+[1571] : Triwizard Maze"
+
+[174] : Mysterious Artefacts
+[1578] : Room of Requirement"
+[1579] : Dumbledore's Office"
+[1580] : Room of Requirement - Hidden Things"
+
+[195] : Wonders of the Wizarding World
+[1580] : Room of Requirement - Hidden Things"
+[1581] : Hogwarts Gate"
+[1582] : King's Cross Station"
+
+[192] : Oddities ! CRAZY STRUCTURE
+[1583]
+string LocKey = "collection_pages_oddities_sunset"
+string LocValue = "Oddities I"
+[1584]
+string LocKey = "collection_pages_oddities_clearnight"
+string LocValue = "Oddities II"
+[1585]
+string LocKey = "collection_pages_oddities_overcast"
+string LocValue = "Oddities IV"
+[1586]
+string LocKey = "collection_pages_oddities_rain"
+string LocValue = "Oddities III"
+[1587]
+string LocKey = "collection_pages_oddities_0001"
+string LocValue = "Oddities I"
+[1588]
+string LocKey = "collection_pages_oddities_0002"
+string LocValue = "Oddities II"
+[1589]
+string LocKey = "collection_pages_oddities_0003"
+string LocValue = "Oddities III"
+[1590]
+string LocKey = "collection_pages_oddities_0004"
+string LocValue = "Oddities IV"
+[1591]
+string LocKey = "collection_pages_oddities_0005"
+string LocValue = "Oddities V"
+[1592]
+string LocKey = "collection_pages_oddities_0006"
+string LocValue = "Oddities VI"
+[1593]
+string LocKey = "collection_pages_oddities_0007"
+string LocValue = "Oddities VII"
+[1594]
+string LocKey = "collection_pages_oddities_0008"
+string LocValue = "Oddities VIII"
+[1595]
+string LocKey = "collection_pages_oddities_0009"
+string LocValue = "Oddities IX"
+[1596]
+string LocKey = "collection_pages_oddities_0010"
+string LocValue = "Oddities X"

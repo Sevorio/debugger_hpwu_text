@@ -1,0 +1,80 @@
+INDEX OF CHALLENGES:
+First the Pages with stickers,
+then the single Item pages (Adversaries)
+
+[210] = "Wizarding Books"
+[1623] "Books I"
+[1624] "Books II"
+[1625] "Books III"
+
+[213] = "Deathly Hallows"
+[1598] "Deathly Hallows"
+
+[216] = "Hogwarts Register"
+[1601] "Hogwarts Register I"
+[1602] "Hogwarts Register II"
+[1603] "Hogwarts Register III"
+[1604] "Hogwarts Register IV"
+
+[219] = "Horcruxes"
+[1599] "Horcruxes I"
+[1600] "Horcruxes II"
+
+[222] = "Inquisitorial Squad"
+[1608] "Inquisitorial Squad I"
+[1609] "Inquisitorial Squad II"
+
+[225] = "Joke Products"
+[1620] "Joke Products I"
+[1621] "Joke Products II"
+[1622] "Joke Products III"
+
+[228] = "Magical Devices"
+[1615] "Magical Devices I"
+[1616] "Magical Devices II"
+
+[231] = "Quidditch Teams"
+[1610] "Quidditch Teams I"
+[1611] "Quidditch Teams II"
+[1612] "Quidditch Teams III"
+
+[234] = "Symbols of the Wizarding World"
+[1617] "Symbols of the Wizarding World I"
+[1618] "Symbols of the Wizarding World II"
+[1619] "Symbols of the Wizarding World III"
+
+[237] = "Wands of Dumbledore's Army"
+[1613] Wands of Dumbledore's Army I"
+[1614] "Wands of Dumbledore's Army II"
+
+[240] = "Wands of the Order of the Phoenix"
+[1605] "Wands of the Order of the Phoenix I"
+[1606] "Wands of the Order of the Phoenix II"
+[1607] "Wands of the Order of the Phoenix III"
+
+GREEN --- THE SINGLE PAGES
+ADVERSARIES
+
+[201] = "Dark Wizard Leaders"
+[1626] = "Lord Voldemort"
+[1627] = "Bellatrix Lestrange"
+[1628] = "Lucius Malfoy"
+
+[204] = "Dark Wizards"
+[1629] = "Narcissa Malfoy"
+[1630] = "Fenrir Greyback"
+[1631] = "Barty Crouch Junior"
+[1632] = "Peter Pettigrew"
+
+[207] = "Hogwarts Antagonists"
+[1633] = "Dolores Umbridge"
+[1634] = "Draco Malfoy"
+[1635] = "Gilderoy Lockhart"
+[1636] = "Slytherin's Basilisk"
+[1637] = "Aragog"
+
+[198] = "Dark Creatures"
+[1638] = "Ancient Hungarian Horntail"
+[1639] = "Ancient Ukranian Ironbelly"
+[1640] = "Ancient Norwegian Ridgeback"
+
